@@ -1,0 +1,141 @@
+[
+  {
+    "authors": "QBQ",
+    "name": "武器汉化",
+    "desc": "只是汉化而已",
+    "mods": "spellbladenext",
+    "dynamic": false
+  },
+  {
+    "target_class": {
+      "name": "com.spellbladenext.items.PrismaticEffigy",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Use in the Glass Ocean to summon Magus, if available.",
+        "value": "在玻璃海洋中使用以召唤魔法师（如果可用）"
+      },
+	  {
+        "key": "Magus' full power is unleashed in the Glass Ocean!",
+        "value": "魔法师的全部力量在玻璃海洋中得到了释放！"
+      },
+	  {
+        "key": "Magus has no room at your location",
+        "value": "魔法师无法在此空间生成"
+      },
+	  {
+        "key": "Magus is already present within 200 blocks.",
+        "value": "魔法师已存在于两百格之内"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "com.spellbladenext.items.Starforge",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Triggers Elemental Novas on hit, with a 1 second base cooldown and a 0.8 coefficient.",
+        "value": "命中触发新星元素，具有1秒的基本冷却和0.8的系数。"
+      },
+	  {
+        "key": "Requires runes of the right type, or Spell Infinity.",
+        "value": "需要正确类型的符文，或者无限法术。"
+      },
+	  {
+        "key": "The end is written into the beginning.",
+        "value": "既是终结，也是开始"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "com.spellbladenext.block.Hexblade",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Place to ward off Hexblade invasions in a 64 block radius, ",
+        "value": "将其放置在地上，可以在半径64个区块范围内抵御Hexflade入侵，"
+      },
+	  {
+        "key": "or carry to prevent yourself from being Hexed.",
+        "value": "或随身携带以防止自己受到诅咒。"
+      },
+	  {
+        "key": "Right Click on air to create a Hexblade Portal you can right click on with this sword to enter the Glass Ocean",
+        "value": "右键点击空中创建一个Hexblade传送门，你可以用这把剑右键点击进入玻璃海洋"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "com.spellbladenext.items.Offering",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Keep in inventory to ward away Hex, consuming the item when hexed.",
+        "value": "将其保存在库存中以抵御诅咒，被诅咒时会消耗该物品。"
+      },
+	  {
+        "key": "Use on a block to summon a friendly Hexblade portal. Consumed when used.",
+        "value": "在方块上使用可召唤一个友方 Hexblade 传送门。使用后消耗。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "com.spellbladenext.items.Ashes",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "A single facet contains the wisdom",
+        "value": "蕴含了无数崩坏世界的智慧"
+      },
+	  {
+        "key": "of countless disintegrated worlds.",
+        "value": "似乎是创世神Dark_Dancer所持有的物件。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "com.spellbladenext.items.Omni",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "That winter, scorched refugees emerged from the shrine,",
+        "value": "那年冬天，满身焦灼的难民走出圣地，"
+      },
+	  {
+        "key": "speaking only in strange tongues. They prayed to a new",
+        "value": "口中说着奇怪的语言，他们向新的权力象征所祈祷"
+      },
+	  {
+        "key": "symbol of power, not out of love, but out of fear.",
+        "value": "不是出于爱，而是出于恐惧"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "com.spellbladenext.items.Orb",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Orbweaver's Grace",
+        "value": "奥博韦弗的恩典"
+      },
+	  {
+        "key": "Move normally while casting",
+        "value": "可以移动施法"
+      }
+    ]
+  }
+]
