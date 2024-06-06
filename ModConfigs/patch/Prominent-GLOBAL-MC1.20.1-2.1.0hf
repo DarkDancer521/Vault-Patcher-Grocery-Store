@@ -1,0 +1,537 @@
+[
+  {
+    "authors": "QBQ",
+    "name": "武器汉化2",
+    "desc": "只是汉化而已2",
+    "mods": "Prominent-GLOBAL-MC1.20.1-2.1.0hf",
+    "dynamic": false
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.Frostmourne",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Runic Artifact",
+        "value": "符文神器"
+      },
+	  {
+        "key": "Obliterate",
+        "value": "湮灭"
+      },
+	  {
+        "key": "Imbue your weapon with death, making your next attack deal",
+        "value": "让你的武器充满死亡气息"
+      },
+	  {
+        "key": "soulfrost damage and extra physical damage to frozen targets.",
+        "value": "使你的下一次攻击对冰冻目标造成灵魂冰霜伤害和额外的物理伤害"
+      },
+	  {
+        "key": " Extends Remorseless Winter by 1 second.",
+        "value": "无情寒冬持续时间延长1秒。"
+      },
+	  {
+        "key": " Extends Agonizing Breath by 2 seconds.",
+        "value": "痛苦吐息持续时间延长2秒。"
+      },
+	  {
+        "key": "Remorseless Winter",
+        "value": "无情寒冬"
+      },
+	  {
+        "key": "Drain the warmth of life from all nearby enemies,",
+        "value": "吸取附近所有敌人的生命之力"
+      },
+	  {
+        "key": "dealing soulfrost damage every second for 10 seconds.",
+        "value": "每秒造成灵魂冰霜伤害，持续 10 秒。"
+      },
+	  {
+        "key": "Agonizing Breath",
+        "value": "痛苦领域"
+      },
+	  {
+        "key": "Continuosly deal frost damage in a cone in front of you",
+        "value": "在 5 秒内"
+      },
+	  {
+        "key": "during 5 seconds.",
+        "value": "持续对前方锥形区域造成冰霜伤害。"
+      },
+	  {
+        "key": "Curse of Agony",
+        "value": "痛苦诅咒"
+      },
+	  {
+        "key": "Whoever wields the Frostmourne will become the next Lich King,",
+        "value": "谁拥有霜之哀伤谁就将成为下一任巫妖王，"
+      },
+	  {
+        "key": "abilities will deal extra frost damage while on cold biomes.",
+        "value": "技能会在寒冷的生物群系中造成额外的冰冻伤害。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.ScrollItem",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Resets your talent tree knowledge and refunds all points.",
+        "value": "重置你的天赋树知识并退还所有点数。"
+      },
+	  {
+        "key": "Your talent tree has been reset.",
+        "value": "你的天赋树已被重置。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.MoltenCore",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "§7Made from the depths of §cVaaz§7 by the creator of all things, §cS'kellak§7.",
+        "value": "§7由万物的创造者§cDark_Dancer§7从§c未知之地§7的深处制成§7。"
+      },
+	  {
+        "key": "§7Given as a reward to those who have proven themselves worthy by eliminating the threats of the realms.",
+        "value": "§7对那些通过消除王国威胁而证明自己有价值的人给予奖励。"
+      },
+	  {
+        "key": "§eComplete Chapter II of Void's Invasion to unlock.",
+        "value": "§e完成虚空入侵第二章即可解锁。"
+      },
+	  {
+        "key": "§8This is a personal soulbound item! Do not try to share or destroy or it will break progression.",
+        "value": "§8这是个人灵魂绑定物品！请勿尝试丢弃、分享或销毁，否则会破坏进度，且不可逆转！"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.registry.ItemRegistry",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Full of hatred and demonic presences.",
+        "value": "充满仇恨和邪恶气息。"
+      },
+	  {
+        "key": "A shining light full of concentrated raw power.",
+        "value": "充满浓缩原始力量的闪耀光芒。"
+      },
+	  {
+        "key": "Holds wrathful souls.",
+        "value": "蕴藏着愤怒的灵魂。"
+      },
+	  {
+        "key": "Can be used to re-roll and repair artifact weapons.",
+        "value": "可用于重新制作和修复神器武器。"
+      },
+	  {
+        "key": "蘆 Loot from Mythic 10+ Bosses",
+        "value": "从 10 个以上神话 Boss 处获取战利品"
+      },
+	  {
+        "key": "蘆 Loot from Mythic 20+ Bosses",
+        "value": "从 20 多个神话 Boss 处获取战利品"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.Thunderwrath",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Emberstorm Artifact",
+        "value": "余烬风暴神器"
+      },
+	  {
+        "key": "Thunder's Fury",
+        "value": "雷霆之怒"
+      },
+	  {
+        "key": "Pyroclastic Flow",
+        "value": "流淌着崩坏之力"
+      },
+	  {
+        "key": "Chance on hit to refresh Thunder Fury's cooldown",
+        "value": "击中时有一定几率刷新雷霆之怒的冷却时间"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.Supernova",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Cosmic Artifact",
+        "value": "宇宙元素神器"
+      },
+	  {
+        "key": "Astral Burst",
+        "value": "星界爆发"
+      },
+	  {
+        "key": "Invoke all of the energy of Supernova into a single point,",
+        "value": "将超新星的所有能量集中到一个点，"
+      },
+	  {
+        "key": "exploding in a lethal nova that damages all nearby enemies.",
+        "value": "爆炸产生的致命新星会对附近的所有敌人造成伤害。"
+      },
+	  {
+        "key": "Arcane Projection",
+        "value": "奥术冲击"
+      },
+	  {
+        "key": "Charge your focus in a single target, and then strike with a powerful",
+        "value": "将你的注意力集中在一个目标上，然后用强大的音波攻击，"
+      },
+	  {
+        "key": "sonic attack that deals physical and arcane damage.",
+        "value": "造成物理和奥术伤害。"
+      },
+	  {
+        "key": "Frost Projection",
+        "value": "冰霜震击"
+      },
+	  {
+        "key": "Channel a rain of iceles to your closest target. If the target dies,",
+        "value": "将冰霜之力引导到离你最近的目标身上。如果目标死亡，"
+      },
+	  {
+        "key": "the channeling continues to the next closest target.",
+        "value": "引导继续锁定至下一个最近的目标。"
+      },
+	  {
+        "key": "Fire Projection",
+        "value": "火焰冲击"
+      },
+	  {
+        "key": "Teleport behind a close enemy and strike with a flaming hit,",
+        "value": "传送至近距离敌人身后，用火焰攻击，"
+      },
+	  {
+        "key": "dealing physical and fire damage. Can be channeleed.",
+        "value": "造成物理和火焰伤害。可以引导施法。"
+      },
+	  {
+        "key": "Astral Echoing",
+        "value": "星界回响"
+      },
+	  {
+        "key": "Your hits may resonate with extra elemental damage.",
+        "value": "你的打击可能会产生额外的元素伤害。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.ThousandFists",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Soulfire Artifact",
+        "value": "灵魂烈焰神器"
+      },
+	  {
+        "key": "Enraging",
+        "value": "激怒"
+      },
+	  {
+        "key": "Enrage yourself, imbuing your fists with 500% attack speed",
+        "value": "激怒自己，使你的获得 500% 的攻击速度，持续 2 秒。"
+      },
+	  {
+        "key": "for 2 seconds. While enraged, your attacks may deal extra soulfire damage.",
+        "value": "激怒时，你的攻击可能会造成额外的灵魂伤害。"
+      },
+	  {
+        "key": "Requires a Fist of Fury in the off hand.",
+        "value": "需要副手有愤怒之拳。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.Fyralath",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Soulfire Artifact",
+        "value": "灵魂烈焰神器"
+      },
+	  {
+        "key": "Greater Scorch",
+        "value": "万物焦灼"
+      },
+	  {
+        "key": "Set in flames your target and give yourself resistance for",
+        "value": "使目标迸发火焰，并使自己获得 4 秒的防御力。"
+      },
+	  {
+        "key": "4 seconds. Attacks have a chance to extend the duration.",
+        "value": "攻击有机会延长持续时间。"
+      },
+	  {
+        "key": "Greater Laceration",
+        "value": "灵魂撕裂"
+      },
+	  {
+        "key": "Swing Fyr'alath rapidly to heat the air and throw flaming",
+        "value": "快速挥动以加热空气"
+      },
+	  {
+        "key": "blade-like projectiles at your target.",
+        "value": "并向目标投掷燃烧的刀片状冲击波。"
+      },
+	  {
+        "key": "Greater Meteor",
+        "value": "陨星"
+      },
+	  {
+        "key": "Invoke a rain of meteors that will fall upon your target",
+        "value": "召唤一场流星雨，落在你的目标上，"
+      },
+	  {
+        "key": "and deal fire damage to all close enemies.",
+        "value": "并对所有近身敌人造成火焰伤害。"
+      },
+	  {
+        "key": "Fiery Core",
+        "value": "气定神闲"
+      },
+	  {
+        "key": "Fyr'alath can invoke improved fire spells that have instant",
+        "value": "可以调用改进的火焰法术，其施法时间缩短，"
+      },
+	  {
+        "key": "cast times, more damage and improved effects.",
+        "value": "伤害更大，效果更佳。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.Azhar",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Soulfire Artifact",
+        "value": "灵魂烈焰神器"
+      },
+	  {
+        "key": "Soul Absorption",
+        "value": "灵魂汲取"
+      },
+	  {
+        "key": "Absorb all Broken Souls, consuming them and healing 10% of your",
+        "value": "吸收所有破碎的灵魂，将其消耗掉，"
+      },
+	  {
+        "key": "maximum health per broken soul stack.",
+        "value": "并且每个破碎的灵魂堆叠可治愈你最大生命值的 10%。"
+      },
+	  {
+        "key": "Breath of A'zhar",
+        "value": "阿扎尔之息"
+      },
+	  {
+        "key": "Unleash the breath of A'zhar, dealing high soulfire damage on a",
+        "value": "释放阿扎尔之息，对大范围锥形区域造成大量灵魂伤害。"
+      },
+	  {
+        "key": "large cone. If you don't have a broken soul stack, you will recieve",
+        "value": "如果你的未堆叠灵魂碎裂，则在激活灵魂之息期间，"
+      },
+	  {
+        "key": "continuous damage while the breath is active.",
+        "value": "你将受到持续伤害。"
+      },
+	  {
+        "key": "Broken Souls",
+        "value": "灵魂碎裂"
+      },
+	  {
+        "key": "Broken Souls last 5 seconds, each stack will not reset the duration.",
+        "value": "灵魂碎裂持续 5 秒，每一层都不会重置持续时间。"
+      },
+	  {
+        "key": "When souls expire, you get healed 10% of your maximum health.",
+        "value": "当灵魂碎裂结束时，你将恢复最大生命值的 10%。"
+      },
+	  {
+        "key": "Attacks generate a Broken Soul, but damage you 10% of your health.",
+        "value": "攻击会使你产生灵魂碎裂层数，但会伤害你 10% 的当前生命值。"
+      },
+	  {
+        "key": "Killing an enemy will generate a Broken Soul without damaging you.",
+        "value": "杀死敌人会产生灵魂碎裂层数，但不会对你造成伤害。"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.AshedarSpawner",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "The Essence of Ash'edar must be on your main hand, and your off hand must be empty.",
+        "value": "阿什伊达精华必须放置在你的主手上，并且你的副手必须是空的。"
+      },
+	  {
+        "key": "Ash'edar, the Cosmic Twins",
+        "value": "宇宙双子阿什伊达"
+      },
+	  {
+        "key": "are now soulbound to you.",
+        "value": "现已与你灵魂的灵魂签订契约。"
+      },
+	  {
+        "key": "Sunfire & Arcane Artifacts",
+        "value": "阳炎与奥术神器"
+      },
+	  {
+        "key": "Converts the Essence of Ash'edar into its weapon form. Requires a free offhand",
+        "value": "将阿什伊达精华转化为武器形态。【需要副手未持有任何物品】"
+      }
+    ]
+  },
+  {
+    "target_class": {
+      "name": "elocindev.prominent.item.artifacts.Ashedar",
+      "method": ""
+    },
+    "pairs": [
+      {
+        "key": "Sunfire",
+        "value": "阳炎"
+      },
+	  {
+        "key": "Arcane",
+        "value": "奥术"
+      },
+	  {
+        "key": " Artifact",
+        "value": "神器"
+      },
+	  {
+        "key": "Sunstrike",
+        "value": "阳炎冲击"
+      },
+	  {
+        "key": "Focus a shockwave of pure solar power, dealing fire damage to all enemies in a frontal cone.",
+        "value": "聚集纯净的太阳能量并释放冲击波，对前方锥形区域内的所有敌人造成火焰伤害。"
+      },
+	  {
+        "key": " Deals double damage while affected by Solar Eclipse",
+        "value": "受到日蚀影响时造成双倍伤害"
+      },
+	  {
+        "key": " Heals you the damaged amount while affected by Lunar Eclipse.",
+        "value": "受到月蚀影响时，根据伤害量治愈您的生命值。"
+      },
+	  {
+        "key": "Prominence",
+        "value": "日珥"
+      },
+	  {
+        "key": "Unleash the true power of Ash, erupting fire damage in a large area.",
+        "value": "释放阿什的真正力量，在大范围内爆发火焰伤害。"
+      },
+	  {
+        "key": " Sets targets on fire and blinds them while affected by Solar Eclipse",
+        "value": "受到日蚀影响时，使目标着火并且失明；"
+      },
+	  {
+        "key": " Deals double damage to stunned enemies while affected by Lunar Eclipse.",
+        "value": "受到月蚀影响时，对被击晕的敌人造成双倍伤害。"
+      },
+	  {
+        "key": "Solar Eclipse",
+        "value": "日蚀"
+      },
+	  {
+        "key": "Increases damage done by Ash'edar by 10%. Applies for 10 seconds.",
+        "value": "使阿什艾达造成的伤害增加10%。持续10秒。"
+      },
+	  {
+        "key": "Darkening",
+        "value": "月蚀"
+      },
+	  {
+        "key": "Swirls the inner arcane power of Edar, dealing arcane damage all around you.",
+        "value": "释放艾达内部的奥术力量，对你周围造成奥术伤害。"
+      },
+	  {
+        "key": " Extends the duration of your current Eclipse by 2 seconds.",
+        "value": "将当前日蚀或月蚀的持续时间延长 2 秒。"
+      },
+	  {
+        "key": " Heals you the damaged amount while affected by Lunar Eclipse.",
+        "value": "受到月蚀影响时，根据伤害量治愈您的生命值。"
+      },
+	  {
+        "key": "Moonlight Nova",
+        "value": "月神降临"
+      },
+	  {
+        "key": "Unleash a powerful nova of pure moonlight, damaging and stunning all enemies.",
+        "value": "释放一道强大的纯净月光新星，对所有敌人造成伤害并使其昏迷。"
+      },
+	  {
+        "key": " Deals double damage while affected by Solar Eclipse",
+        "value": "受到日蚀影响时造成双倍伤害"
+      },
+	  {
+        "key": " Stun duration is increased while affected by Lunar Eclipse.",
+        "value": "受到月蚀影响时，眩晕持续时间会增加。"
+      },
+	  {
+        "key": "Lunar Eclipse",
+        "value": "月蚀"
+      },
+	  {
+        "key": "Increases attack and movement speed by 10%. Applies for 10 seconds.",
+        "value": "增加攻击和移动速度10%。持续10秒。"
+      },
+	  {
+        "key": " Solar and Lunar Eclipses share their cooldown.",
+        "value": "日蚀和月蚀共享其冷却时间。"
+      },
+	  {
+        "key": "stral Attunement",
+        "value": "光束同谐"
+      },
+	  {
+        "key": "When dual wielding along with its twin, melee attacks deal double damage.",
+        "value": "当与其孪生兄弟一起双持时，近战攻击会造成双倍伤害。"
+      },
+	  {
+        "key": " Available spells will change depending on which blade is in your main hand.",
+        "value": "可用的法术将根据你主手上的剑刃而变化。"
+      },
+	  {
+        "key": "Astral Attunement",
+        "value": "星界调和"
+      }
+    ]
+  }
+]
